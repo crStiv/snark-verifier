@@ -1,4 +1,4 @@
-//! Verfieirs for polynomial commitment schemes.
+//! Verifiers for polynomial commitment schemes.
 
 use crate::{
     loader::{native::NativeLoader, Loader},
